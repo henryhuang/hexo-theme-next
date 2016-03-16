@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2012
 
 
 
@@ -27,10 +27,10 @@ rss:
 # Remove leading slashes ( "/archives" -> "archives" )
 menu:
   home: /
-  #categories: /categories
+  categories: /categories
   #about: /about
-  archives: /archives
   tags: /tags
+  archives: /archives
   #commonweal: /404.html
 
 
@@ -49,6 +49,9 @@ menu_icons:
   archives: archive
   commonweal: heartbeat
 
+# links_title: Links
+# links:
+#   CNHalo: http://www.cnhalo.com/
 
 
 
@@ -69,9 +72,9 @@ scheme: Muse
 
 
 # Social links
-# social:
-  #GitHub:
-  #Others:
+social:
+  GitHub: https://github.com/henryhuang
+  Weibo: http://weibo.com/626242034
 
 # Social Icons
 social_icons:
