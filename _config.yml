@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "黄奕杰, h1886, huangyijie, henry_huang, henryhuang, Hexo"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -152,7 +152,7 @@ auto_excerpt:
   length: 150
 
 # Use Lato font
-use_font_lato: true
+# use_font_lato: true
 
 
 
