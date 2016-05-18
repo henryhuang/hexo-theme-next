@@ -31,6 +31,8 @@ menu:
   #about: /about
   tags: /tags
   archives: /archives
+  booklist: https://github.com/henryhuang/booklist
+  gallery: http://gallery.huangyijie.com/
   #commonweal: /404.html
 
 
@@ -48,6 +50,8 @@ menu_icons:
   tags: tags
   archives: archive
   commonweal: heartbeat
+  gallery: picture-o
+  booklist: book
 
 # links_title: Links
 # links:
@@ -60,9 +64,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 
@@ -224,9 +228,9 @@ facebook_sdk:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: nPCbQIyF2fD9u5oyCbKpo31I-gzGzoHsz
+  app_key: V0ro8os6H64r4CW4C2HM6LFf
 
 
 # Tencent analytics ID
